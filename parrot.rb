@@ -4,3 +4,4 @@ def parrot (parrot="squawk!")
   puts parrot
   
 end
+parrot
